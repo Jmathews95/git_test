@@ -1,0 +1,3 @@
+My first git_hub repo... kinda
+Hello odin agian
+More stuff added

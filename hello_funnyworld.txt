@@ -1,3 +1,2 @@
-My first git_hub repo... kinda
-Hello odin agian
-More stuff added
+checking 1 2 3 
+This is a test
